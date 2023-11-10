@@ -7,3 +7,4 @@
 1. [Optimal Multi-robot Path Finding Algorithm Based on A*](https://link.springer.com/chapter/10.1007/978-3-030-00184-1_16)
 2. [Finding Optimal Solutions to Cooperative Pathfinding Problems](https://ojs.aaai.org/index.php/AAAI/article/view/7564) : Operator Decomposition(OD) and Simple Independence Detectio(SID)
 3. [Complete Algorithms for Cooperative Pathfinding Problems](https://www.ijcai.org/Proceedings/11/Papers/118.pdf) : Full Independence Detection(OD+ID)
+4. [Independence Detection for Multi-Agent Pathfinding Problems](http://trevorstandley.com/papers/ID_for_MAPP.pdf) : Introduction to Independence Detection and aims to clarify its details.
