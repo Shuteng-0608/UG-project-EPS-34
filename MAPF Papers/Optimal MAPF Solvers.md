@@ -4,7 +4,9 @@
 - **Conflict-Based Search.** This algorithmic family solves MAPF by solving multiple single-agent pathﬁnding problems. To achieve coordination, speciﬁc constraints are added incrementally to the single-agent pathﬁnding problems, in a way that veriﬁes soundness, completeness, and optimality.
 - **Constraints programming.** This approach compiles MAPF to a set of constraints and solves them with a general purpose constraints solver.
 ## Extensions of A*
+A straightforward multirobot path planner could use standard A* to find a path for a multirobot system, resulting in a simple, coupled planner. However, the exponential growth in the number of possible joint actions would render such an approach computationally infeasible as the number of robots increases.
 1. [Optimal Multi-robot Path Finding Algorithm Based on A*](https://link.springer.com/chapter/10.1007/978-3-030-00184-1_16)
 2. [Finding Optimal Solutions to Cooperative Pathfinding Problems](https://ojs.aaai.org/index.php/AAAI/article/view/7564) : Operator Decomposition(OD) and Simple Independence Detectio(SID)
 3. [Complete Algorithms for Cooperative Pathfinding Problems](https://www.ijcai.org/Proceedings/11/Papers/118.pdf) : Full Independence Detection(OD+ID)
 4. [Independence Detection for Multi-Agent Pathfinding Problems](http://trevorstandley.com/papers/ID_for_MAPP.pdf) : Introduction to Independence Detection and aims to clarify its details.
+5. [Subdimensional expansion for multirobot path planning](https://www.sciencedirect.com/science/article/pii/S0004370214001271) : M*
