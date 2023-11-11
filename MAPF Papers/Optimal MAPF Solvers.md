@@ -9,4 +9,4 @@ A straightforward multirobot path planner could use standard A* to find a path f
 2. [Finding Optimal Solutions to Cooperative Pathfinding Problems](https://ojs.aaai.org/index.php/AAAI/article/view/7564) : Operator Decomposition(OD) and Simple Independence Detectio(SID)
 3. [Complete Algorithms for Cooperative Pathfinding Problems](https://www.ijcai.org/Proceedings/11/Papers/118.pdf) : Full Independence Detection(OD+ID)
 4. [Independence Detection for Multi-Agent Pathfinding Problems](http://trevorstandley.com/papers/ID_for_MAPP.pdf) : Introduction to Independence Detection and aims to clarify its details.
-5. [Subdimensional expansion for multirobot path planning](https://www.sciencedirect.com/science/article/pii/S0004370214001271) : M*
+5. [Subdimensional expansion for multirobot path planning](https://www.sciencedirect.com/science/article/pii/S0004370214001271) : Introduce a new approach that combines the advantages of coupled and decoupled algorithms called subdimensional expansion. 
