@@ -13,4 +13,6 @@ A straightforward multirobot path planner could use standard A* to find a path f
 6. [ODrM*: optimal multirobot path planning in low dimensional search spaces](https://ieeexplore.ieee.org/abstract/document/6631119) : ODrM* which replace A* with operator decomposition as the underlying planning algorithm in M*
 7. [Subdimensional expansion for multirobot path planning](https://www.sciencedirect.com/science/article/pii/S0004370214001271) : Introduce a new approach that combines the advantages of coupled and decoupled algorithms called **Subdimensional Expansion.** 
 ## The Increasing Cost Tree Search
-1. [The Increasing Cost Tree Search for Optimal Multi-Agent Pathfinding](https://www.ijcai.org/Proceedings/11/Papers/117.pdf)
+1. [The Increasing Cost Tree Search for Optimal Multi-Agent Pathfinding](https://www.ijcai.org/Proceedings/11/Papers/117.pdf): ICTs
+## Conflict-Based Search
+1. [Conflict-based search for optimal multi-agent pathfinding](https://www.sciencedirect.com/science/article/pii/S0004370214001386) : CBS
