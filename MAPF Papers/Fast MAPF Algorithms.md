@@ -4,3 +4,4 @@
 - **Not Optimal.** The solution returned by a prioritized planning algorithm my not be optimal.
 1. [Multi Robot Route Planning (MRRP): Extended Spatial-Temporal Prioritized Planning](https://ieeexplore.ieee.org/abstract/document/8968465)
 2. [Cooperative Pathfinding](https://ojs.aaai.org/index.php/AIIDE/article/view/18726) : WHCA*
+3. [Multi Robot Path Planning Using Priority Based Algorithm](https://ieeexplore.ieee.org/document/9865690)
