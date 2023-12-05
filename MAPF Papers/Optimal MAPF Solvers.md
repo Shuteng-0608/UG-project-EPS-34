@@ -18,3 +18,5 @@ A straightforward multirobot path planner could use standard A* to find a path f
 1. [Conflict-based search for optimal multi-agent pathfinding](https://www.sciencedirect.com/science/article/pii/S0004370214001386) : CBS and Meta-Agent CBS (MA-CBS), MA-CBS allows agents to be merged into small groups of joint agents
 ## Others
 1. [Optimal Multirobot Path Planning on Graphs: Complete Algorithms and Effective Heuristics](https://ieeexplore.ieee.org/abstract/document/7539623/footnotes#full-text-header)
+2. [Dragonfly algorithm: a new meta-heuristic optimization technique for solving single-objective, discrete, and multi-objective problems](https://link.springer.com/article/10.1007/s00521-015-1920-1) : DA
+3. [An Improved Real-Time Path Planning Method Based on Dragonfly Algorithm for Heterogeneous Multi-Robot System](https://ieeexplore.ieee.org/document/9152817)
