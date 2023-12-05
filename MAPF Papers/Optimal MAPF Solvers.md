@@ -16,3 +16,5 @@ A straightforward multirobot path planner could use standard A* to find a path f
 1. [The Increasing Cost Tree Search for Optimal Multi-Agent Pathfinding](https://www.ijcai.org/Proceedings/11/Papers/117.pdf): ICTs
 ## Conflict-Based Search
 1. [Conflict-based search for optimal multi-agent pathfinding](https://www.sciencedirect.com/science/article/pii/S0004370214001386) : CBS and Meta-Agent CBS (MA-CBS), MA-CBS allows agents to be merged into small groups of joint agents
+## Others
+1. [Optimal Multirobot Path Planning on Graphs: Complete Algorithms and Effective Heuristics](https://ieeexplore.ieee.org/abstract/document/7539623/footnotes#full-text-header)
