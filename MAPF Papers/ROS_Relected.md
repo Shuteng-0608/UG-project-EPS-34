@@ -1,0 +1,2 @@
+1. [A decentralised control method for unknown environment exploration using Turtlebot 3 multi-robot system](https://ieeexplore.ieee.org/document/9847497)
+- The paper presents a case study of multi-robot coordination using a Greedy decentralized method for controlling a system of tree Turtlebot 3 mobile robots. The robots use Robot Operating System (ROS) as platform for develop control framework and simulations were performed in Gazebo.
