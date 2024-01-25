@@ -22,6 +22,7 @@ Vision-based multi-robot coordination in Gazebo
 4. [cbs-icbs](https://github.com/Stepan-Makarenko/Multi-agent-pathfinding-CBS-ICBS)
 5. [PO-MAPF](https://github.com/AIRI-Institute/pogema)
 6. [pymapf](https://github.com/APLA-Toolbox/pymapf)
+7. [deep-learning](https://github.com/omron-sinicx/jaxmapp)
 
 # C#
 1. [ConflictAvoidantCBS](https://github.com/pulakk/ConflictAvoidantCBS-MAPF)
