@@ -26,6 +26,8 @@ Vision-based multi-robot coordination in Gazebo
 6. [pymapf](https://github.com/APLA-Toolbox/pymapf)
 7. [deep-learning](https://github.com/omron-sinicx/jaxmapp)
 8. [MA-CBS & CBS-based](https://github.com/polinko13/CBS)
+9. [M*](https://github.com/jdonszelmann/research-project)
+10. 
 
 # C#
 1. [ConflictAvoidantCBS](https://github.com/pulakk/ConflictAvoidantCBS-MAPF)
