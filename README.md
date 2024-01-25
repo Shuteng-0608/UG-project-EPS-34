@@ -14,6 +14,7 @@ Vision-based multi-robot coordination in Gazebo
 # Python
 1. [cbs](https://github.com/GavinPHR/Multi-Agent-Path-Finding)
 2. [Improved CBS (ICBS)](https://github.com/gloriyo/MAPF-ICBS)
+3. [cbs-ds](https://github.com/nicofretti/MAPF)
 
 
 ## [Ridgeback Tutorials](https://clearpathrobotics.com/assets/guides/melodic/ridgeback/index.html)
