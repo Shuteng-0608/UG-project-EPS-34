@@ -18,6 +18,8 @@ Vision-based multi-robot coordination in Gazebo
 4. [cbs-icbs](https://github.com/Stepan-Makarenko/Multi-agent-pathfinding-CBS-ICBS)
 5. 
 
+# C#
+1. [ConflictAvoidantCBS](https://github.com/pulakk/ConflictAvoidantCBS-MAPF)
 
 ## [Ridgeback Tutorials](https://clearpathrobotics.com/assets/guides/melodic/ridgeback/index.html)
 ![Ridgeback](https://github.com/Shuteng-0608/UG-project-EPS-34/blob/main/pictures/ridgeback_banner.png)
