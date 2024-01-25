@@ -16,6 +16,7 @@ Vision-based multi-robot coordination in Gazebo
 11. [Priority Inheritance with Backtracking for Iterative Multi-agent Path Finding](https://github.com/Kei18/pibt2)
 12. [LaCAM: Search-Based Algorithm for Quick Multi-Agent Pathfinding](https://github.com/Kei18/lacam)
 13. [WHCA* & iWHCA* & WCBS](https://github.com/jcontrerasleyton/MAPF)
+14. [ICTS](https://github.com/vikikkdi/icts)
 
 # Python
 1. [cbs](https://github.com/GavinPHR/Multi-Agent-Path-Finding)
