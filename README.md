@@ -15,7 +15,7 @@ Vision-based multi-robot coordination in Gazebo
 10. [AA-SIPP](https://github.com/PathPlanning/AA-SIPP-m)
 11. [Priority Inheritance with Backtracking for Iterative Multi-agent Path Finding](https://github.com/Kei18/pibt2)
 12. [LaCAM: Search-Based Algorithm for Quick Multi-Agent Pathfinding](https://github.com/Kei18/lacam)
-13. [WHCA*&iWHCA*&WCBS](https://github.com/jcontrerasleyton/MAPF)
+13. [WHCA* & iWHCA* & WCBS](https://github.com/jcontrerasleyton/MAPF)
 
 # Python
 1. [cbs](https://github.com/GavinPHR/Multi-Agent-Path-Finding)
@@ -25,7 +25,7 @@ Vision-based multi-robot coordination in Gazebo
 5. [PO-MAPF](https://github.com/AIRI-Institute/pogema)
 6. [pymapf](https://github.com/APLA-Toolbox/pymapf)
 7. [deep-learning](https://github.com/omron-sinicx/jaxmapp)
-8. [MA-CBS](https://github.com/polinko13/CBS)
+8. [MA-CBS & CBS-based](https://github.com/polinko13/CBS)
 
 # C#
 1. [ConflictAvoidantCBS](https://github.com/pulakk/ConflictAvoidantCBS-MAPF)
