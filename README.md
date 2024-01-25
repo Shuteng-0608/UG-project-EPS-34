@@ -13,6 +13,7 @@ Vision-based multi-robot coordination in Gazebo
 8. [LNS](https://github.com/Jiaoyang-Li/MAPF-LNS2)
 9. [mapf-ir](https://github.com/Kei18/mapf-IR)
 10. [AA-SIPP](https://github.com/PathPlanning/AA-SIPP-m)
+11. [Priority Inheritance with Backtracking for Iterative Multi-agent Path Finding](https://github.com/Kei18/pibt2)
 
 # Python
 1. [cbs](https://github.com/GavinPHR/Multi-Agent-Path-Finding)
