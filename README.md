@@ -17,6 +17,8 @@ Vision-based multi-robot coordination in Gazebo
 12. [LaCAM: Search-Based Algorithm for Quick Multi-Agent Pathfinding](https://github.com/Kei18/lacam)
 13. [WHCA* & iWHCA* & WCBS](https://github.com/jcontrerasleyton/MAPF)
 14. [ICTS](https://github.com/vikikkdi/icts)
+15. [ID](https://github.com/svancaj/HybridMAPF)
+16. 
 
 # Python
 1. [cbs](https://github.com/GavinPHR/Multi-Agent-Path-Finding)
