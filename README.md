@@ -9,7 +9,7 @@ Vision-based multi-robot coordination in Gazebo
 4. [libMultiRobotPlanning](https://github.com/whoenig/libMultiRobotPlanning)
 5. [mapf_ros](https://github.com/speedzjy/mapf_ros/blob/main/README.md)
 6. [cbs](https://github.com/enginbaglayici/ConflictBasedSearch)
-7. 
+7. [cbs-astar](https://github.com/yangda75/naiveMAPF)
 
 # Python
 1. [cbs](https://github.com/GavinPHR/Multi-Agent-Path-Finding)
