@@ -8,7 +8,7 @@ Vision-based multi-robot coordination in Gazebo
 3. [Continuous-CBS](https://github.com/PathPlanning/Continuous-CBS)
 4. [libMultiRobotPlanning](https://github.com/whoenig/libMultiRobotPlanning)
 5. [mapf_ros](https://github.com/speedzjy/mapf_ros/blob/main/README.md)
-6. [cbs](https://github.com/enginbaglayici/ConflictBasedSearch)
+6. [cbs](https://github.com/enginbaglayici/ConflictBasedSearch) ********
 7. [cbs-astar](https://github.com/yangda75/naiveMAPF)
 8. [LNS](https://github.com/Jiaoyang-Li/MAPF-LNS2)
 9. [mapf-ir](https://github.com/Kei18/mapf-IR)
